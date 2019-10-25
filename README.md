@@ -1,2 +1,0 @@
-# dog
-Created with CodeSandbox
